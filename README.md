@@ -9,5 +9,6 @@ It's a trial project using ML for SET trading decisions
 // create labeled-stock directory
 
 3. run labelling_data.ipynb
-4. run merge_all_stock.ipynb
-5. choose model to run
+4. run cleansing_data_before_merge_them.ipynb
+5. run merge_all_stock.ipynb
+6. choose model to train and evaluate the results
