@@ -17,20 +17,20 @@ It's a trial project using ML for SET trading decisions
 
 // create labeled-stock directory
 
-3. run labelling_data.ipynb
-4. run cleansing_data_before_merge_them.ipynb
-5. run merge_all_stock.ipynb
+6. run labelling_data.ipynb
+7. run cleansing_data_before_merge_them.ipynb
+8. run merge_all_stock.ipynb
 
 // create labeled-stock-test directory
 
-3. run labelling_data.ipynb (testing set)
-4. run cleansing_data_before_merge_them.ipynb (testing set)
-5. run merge_all_stock.ipynb (testing set)
+9. run labelling_data.ipynb (testing set)
+10. run cleansing_data_before_merge_them.ipynb (testing set)
+11. run merge_all_stock.ipynb (testing set)
 
-6. choose model to train and save model
+12. choose model to train and save model
 - Decision_Tree
 - Random_forest
 - XGBoost
 
-7. run Test_model.ipynb to test model and evaluate them
+13. run Test_model.ipynb to test model and evaluate them
 
